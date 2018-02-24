@@ -1,0 +1,7 @@
+C:\coursera\AlgorithmicToolbox\week1_programming_challenges\1_sum_of_two_digits\C#\SumOfTwoDigits\SumOfTwoDigits\bin\Debug\SumOfTwoDigits.exe.config
+C:\coursera\AlgorithmicToolbox\week1_programming_challenges\1_sum_of_two_digits\C#\SumOfTwoDigits\SumOfTwoDigits\bin\Debug\SumOfTwoDigits.exe
+C:\coursera\AlgorithmicToolbox\week1_programming_challenges\1_sum_of_two_digits\C#\SumOfTwoDigits\SumOfTwoDigits\bin\Debug\SumOfTwoDigits.pdb
+C:\coursera\AlgorithmicToolbox\week1_programming_challenges\1_sum_of_two_digits\C#\SumOfTwoDigits\SumOfTwoDigits\obj\Debug\SumOfTwoDigits.csprojResolveAssemblyReference.cache
+C:\coursera\AlgorithmicToolbox\week1_programming_challenges\1_sum_of_two_digits\C#\SumOfTwoDigits\SumOfTwoDigits\obj\Debug\SumOfTwoDigits.csproj.CoreCompileInputs.cache
+C:\coursera\AlgorithmicToolbox\week1_programming_challenges\1_sum_of_two_digits\C#\SumOfTwoDigits\SumOfTwoDigits\obj\Debug\SumOfTwoDigits.exe
+C:\coursera\AlgorithmicToolbox\week1_programming_challenges\1_sum_of_two_digits\C#\SumOfTwoDigits\SumOfTwoDigits\obj\Debug\SumOfTwoDigits.pdb
